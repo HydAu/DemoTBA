@@ -1,0 +1,12 @@
+﻿Principal,Operation,Resource
+Accountants,Read,Invoices
+Accountants,Write,Invoices
+Accountants,Delete,Invoices
+Authors,Read,Invoices
+Authors,Read,Books
+Authors,Write,Books
+Authors,Delete,Books
+Editors,Read,Books
+Editors,Revise,Books
+Customers,Read,Books
+Customers,Pay,Invoices
